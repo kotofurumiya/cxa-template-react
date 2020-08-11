@@ -1,7 +1,7 @@
 {
   "name": "cxa-template-react",
   "version": "0.0.1",
-  "description": "",
+  "description": "React app template for create-xxx-app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,14 @@
     "react"
   ],
   "author": "Koto Furumiya <kotofurumiya@gmail.com>",
-  "license": "CC0-1.0"
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kotofurumiya/cxa-template-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kotofurumiya/cxa-template-react/issues",
+    "email" : "kotofurumiya@gmai.com"
+  },
+  "homepage": "https://github.com/kotofurumiya/cxa-template-react/"
 }
