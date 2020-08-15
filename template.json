@@ -2,7 +2,7 @@
   "package": {
     "scripts": {
       "start": "node tools/devserver.js",
-      "build": "cpx public build --clean && esbuild --minify --bundle --outfile=public/index.js --define:process.env.NODE_ENV=\"production\" src/index.tsx"
+      "build": "cpx public/**/* build --clean && esbuild --minify --bundle --outfile=build/index.js --define:process.env.NODE_ENV=\"production\" src/index.tsx"
     },
     "dependencies": [
       { "name": "react" },
