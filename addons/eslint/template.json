@@ -1,0 +1,12 @@
+{
+  "package": {
+    "scripts": {
+      "lint": "eslint --ext .ts,.tsx,.js,.jsx ./src"
+    },
+    "devDependencies": [
+      { "name": "eslint" },
+      { "name": "@typescript-eslint/eslint-plugin" },
+      { "name": "@typescript-eslint/parser" }
+    ]
+  }
+}

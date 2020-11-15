@@ -4,6 +4,7 @@
     "moduleResolution": "node",
     "jsx": "react",
     "allowSyntheticDefaultImports": true,
+    "isolatedModules": true,
     "esModuleInterop": true,
     "strict": true,
     "lib": ["dom", "esnext"]

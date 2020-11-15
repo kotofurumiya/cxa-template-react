@@ -1,0 +1,10 @@
+{
+  "package": {
+    "scripts": {
+      "format": "prettier --write src/**/*.{js,jsx,ts,tsx}"
+    },
+    "devDependencies": [
+      { "name": "prettier" }
+    ]
+  }
+}
