@@ -4,17 +4,13 @@
   "parser": "@typescript-eslint/parser",
   "plugins": ["@typescript-eslint"],
   "rules": {
-      "semi": "error"
+    "semi": "error"
   },
   "parserOptions": {
-      "ecmaVersion": 2020,
-      "sourceType": "module",
-      "ecmaFeatures": {
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "ecmaFeatures": {
       "jsx": true
-      }
-  },
-  "env": {
-      "browser": false,
-      "node": true
+    }
   }
 }
