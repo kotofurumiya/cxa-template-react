@@ -1,6 +1,6 @@
 {
   "name": "cxa-template-react",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React app template for create-xxx-app",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "bugs": {
     "url": "https://github.com/kotofurumiya/cxa-template-react/issues",
-    "email" : "kotofurumiya@gmai.com"
+    "email": "kotofurumiya@gmai.com"
   },
   "homepage": "https://github.com/kotofurumiya/cxa-template-react/"
 }
