@@ -1,6 +1,6 @@
 {
   "name": "cxa-template-react",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "React app template for create-xxx-app",
   "main": "index.js",
   "scripts": {
